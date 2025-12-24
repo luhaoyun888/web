@@ -1,11 +1,10 @@
 
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import AutoVision from './pages/AutoVision';
 import AILab from './pages/AILab';
-import DevLog from './pages/DevLog';
 import Archives from './pages/Archives';
 import About from './pages/About';
 
@@ -21,14 +20,13 @@ const App: React.FC = () => {
   return (
     <Router>
       <ScrollToTop />
-      <div className="min-h-screen flex flex-col">
+      <div className="min-h-screen flex flex-col bg-[#050505]">
         <Navbar />
-        <main className="flex-grow pt-16">
+        <main className="flex-grow">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/auto-vision" element={<AutoVision />} />
             <Route path="/ai-lab" element={<AILab />} />
-            <Route path="/dev-log" element={<DevLog />} />
             <Route path="/archives" element={<Archives />} />
             <Route path="/about" element={<About />} />
           </Routes>
