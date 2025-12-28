@@ -1,0 +1,153 @@
+图片文件清单 - 共 144 张
+
+========================================
+360° 旋转序列 (96 张)
+========================================
+目录: /images/360/
+
+ImageSequencePlayer 组件 (36 张):
+- car_360_deg_0.jpg
+- car_360_deg_1.jpg
+- car_360_deg_2.jpg
+- car_360_deg_3.jpg
+- car_360_deg_4.jpg
+- car_360_deg_5.jpg
+- car_360_deg_6.jpg
+- car_360_deg_7.jpg
+- car_360_deg_8.jpg
+- car_360_deg_9.jpg
+- car_360_deg_10.jpg
+- car_360_deg_11.jpg
+- car_360_deg_12.jpg
+- car_360_deg_13.jpg
+- car_360_deg_14.jpg
+- car_360_deg_15.jpg
+- car_360_deg_16.jpg
+- car_360_deg_17.jpg
+- car_360_deg_18.jpg
+- car_360_deg_19.jpg
+- car_360_deg_20.jpg
+- car_360_deg_21.jpg
+- car_360_deg_22.jpg
+- car_360_deg_23.jpg
+- car_360_deg_24.jpg
+- car_360_deg_25.jpg
+- car_360_deg_26.jpg
+- car_360_deg_27.jpg
+- car_360_deg_28.jpg
+- car_360_deg_29.jpg
+- car_360_deg_30.jpg
+- car_360_deg_31.jpg
+- car_360_deg_32.jpg
+- car_360_deg_33.jpg
+- car_360_deg_34.jpg
+- car_360_deg_35.jpg
+
+Viewer360 组件 (60 张):
+- carframe0.jpg
+- carframe1.jpg
+- carframe2.jpg
+... (carframe3.jpg ~ carframe58.jpg)
+- carframe59.jpg
+
+========================================
+汽车模型对比图 (12 张)
+========================================
+目录: /images/cars/
+
+- cyber_raw.jpg
+- cyber_final.jpg
+- lunar_raw.jpg
+- lunar_final.jpg
+- neon_raw.jpg
+- neon_final.jpg
+- gt_raw.jpg
+- gt_final.jpg
+- suv_raw.jpg
+- suv_final.jpg
+- sport_raw.jpg
+- sport_final.jpg
+
+========================================
+工作流程图片 (5 张)
+========================================
+目录: /images/workflow/
+
+- ta1.jpg
+- ta2.jpg
+- ta3.jpg
+- ta4.jpg
+- ta5.jpg
+
+========================================
+AI 实验室图片 (12 张)
+========================================
+目录: /images/ai-lab/
+
+缩略图 (6 张):
+- flux1.jpg
+- flux2.jpg
+- flux3.jpg
+- flux4.jpg
+- flux5.jpg
+- flux6.jpg
+
+节点图 (6 张):
+- node1.jpg
+- node2.jpg
+- node3.jpg
+- node4.jpg
+- node5.jpg
+- node6.jpg
+
+========================================
+存档图片 (15 张)
+========================================
+目录: /images/archives/
+
+早期写生 (6 张):
+- sketch1.jpg
+- sketch2.jpg
+- sketch3.jpg
+- sketch4.jpg
+- sketch5.jpg
+- sketch6.jpg
+
+UI 原型探索 (4 张):
+- ui1.jpg
+- ui2.jpg
+- ui3.jpg
+- ui4.jpg
+
+视觉传达项目 (5 张):
+- vc1.jpg
+- vc2.jpg
+- vc3.jpg
+- vc4.jpg
+- vc5.jpg
+
+========================================
+项目缩略图 (3 张)
+========================================
+目录: /images/projects/
+
+- car1.jpg
+- ai1.jpg
+- dev1.jpg
+
+========================================
+个人头像 (1 张)
+========================================
+目录: /images/profile/
+
+- alex.jpg
+
+========================================
+总计: 144 张图片
+========================================
+
+
+
+
+
+
