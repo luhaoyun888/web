@@ -358,6 +358,7 @@ const AILab: React.FC = () => {
         </div>
         <p className="text-gray-400 max-w-2xl text-lg leading-relaxed">
           编程思维和AI编程工具得结合。探索程序化生成、基于AI编程和自动化工作流的新前沿。
+          本页面为内置ai开发的网页项目，由于是网站是基于vercel部署而不能正常使用
         </p>
       </header>
 
