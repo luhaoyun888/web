@@ -28,6 +28,8 @@ const ARCHIVE_DATA = {
     { id: 20, url: '/images/archives/vc/10.jpg' },
     { id: 21, url: '/images/archives/vc/11.jpg' },
     { id: 22, url: '/images/archives/vc/12.jpg' },
+    { id: 21, url: '/images/archives/vc/14.jpg' },
+    { id: 22, url: '/images/archives/vc/15.jpg' },
   ],
   "早期写生": [
     { id: 1, url: '/images/archives/sketch/1.jpg' },
