@@ -387,7 +387,7 @@ const AutoVision: React.FC = () => {
               <div className="flex-1 overflow-y-auto pr-6 space-y-10 scroll-smooth" style={{ minHeight: 0, maxHeight: '100%' }}>
                 {[
                   { title: 'AI 模型抠图', desc: '利用 AI 模型进行识别使用python代码做成软件，可以批量抠图，识别效果出众。', img: '/images/workflow/ta1.jpg' },
-                  { title: 'PS 插件开发', desc: '制作ps脚本，配合ps得功能可以批量处理psd文档。', img: '/images/workflow/ta2.jpg' },
+                  { title: 'PS 脚本开发', desc: '制作ps脚本，配合ps得功能可以批量处理psd文档。', img: '/images/workflow/ta2.jpg' },
                   { title: '格式化文件结构', desc: '格式化文件结构，方便多个车型同时运行，任意流转交接。', img: '/images/workflow/ta3.jpg' },
                   { title: '自动化动作', desc: 'ps录制匹配动作，各种情况都可一键解决。', img: '/images/workflow/ta4.jpg' },
                 ].map((step, idx) => (
