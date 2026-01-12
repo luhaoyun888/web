@@ -4,8 +4,8 @@ import { TimelineItem } from '../types';
 
 // 简历文件路径配置 - 指向 public 目录下的文件
 // 文件应放置在：public/resume.pdf
-const RESUME_FILE_PATH = '/1_简历.docx';
-const RESUME_DOWNLOAD_NAME = '陆文浩_简历.docx';
+const RESUME_FILE_PATH = '/陆文浩简历.pdf';
+const RESUME_DOWNLOAD_NAME = '陆文浩简历.pdf';
 
 const About: React.FC = () => {
   const TIMELINE: TimelineItem[] = [
