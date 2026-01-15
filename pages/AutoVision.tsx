@@ -22,9 +22,8 @@ const CAR_TYPES: CarType[] = [
   { id: 'car-08', name: '五菱缤果', folder: 'car-08' },
   { id: 'car-09', name: '小鹏G7', folder: 'car-09' },
   { id: 'car-10', name: '别克GL8', folder: 'car-10' },
-  { id: 'car-11', name: '阿维塔06', folder: 'car-11' },
+  { id: 'car-11', name: '小米YU7', folder: 'car-11' },
   { id: 'car-12', name: '享界S9', folder: 'car-12' },
-  { id: 'car-13', name: '小米YU7', folder: 'car-13' },
 ];
 
 // 获取图片路径的辅助函数
